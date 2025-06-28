@@ -24,3 +24,4 @@ The project introduces the foundations of derivatives and progresses through:
    - Event/news impact analysis
 6. **Risk Management** – Concepts of portfolio hedging, risk exposure, and mitigation techniques in options trading.
 
+---
